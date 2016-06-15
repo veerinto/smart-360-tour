@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: b30912f0d9deb9544b222f4d3282a7ec
+timeCreated: 1465273585
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Circle
+    100002: //RootNode
+    100004: iphone_6_screen_texture_718x1278
+    100006: o_iPhone_back_camera
+    100008: o_iphone_camera_inlet_front
+    100010: o_iPhone_front_speaker_inlay
+    100012: o_iphone_glassplate
+    100014: o_iphone_loudness
+    100016: o_iPhone_onoffswitch
+    100018: o_iPhone_sensor_backplate
+    100020: o_iphone_toggle
+    400000: Circle
+    400002: //RootNode
+    400004: iphone_6_screen_texture_718x1278
+    400006: o_iPhone_back_camera
+    400008: o_iphone_camera_inlet_front
+    400010: o_iPhone_front_speaker_inlay
+    400012: o_iphone_glassplate
+    400014: o_iphone_loudness
+    400016: o_iPhone_onoffswitch
+    400018: o_iPhone_sensor_backplate
+    400020: o_iphone_toggle
+    2300000: Circle
+    2300002: //RootNode
+    2300004: iphone_6_screen_texture_718x1278
+    2300006: o_iPhone_back_camera
+    2300008: o_iphone_camera_inlet_front
+    2300010: o_iPhone_front_speaker_inlay
+    2300012: o_iphone_glassplate
+    2300014: o_iphone_loudness
+    2300016: o_iPhone_onoffswitch
+    2300018: o_iPhone_sensor_backplate
+    2300020: o_iphone_toggle
+    3300000: Circle
+    3300002: //RootNode
+    3300004: iphone_6_screen_texture_718x1278
+    3300006: o_iPhone_back_camera
+    3300008: o_iphone_camera_inlet_front
+    3300010: o_iPhone_front_speaker_inlay
+    3300012: o_iphone_glassplate
+    3300014: o_iphone_loudness
+    3300016: o_iPhone_onoffswitch
+    3300018: o_iPhone_sensor_backplate
+    3300020: o_iphone_toggle
+    4300000: o_iphone_body
+    4300002: Circle
+    4300004: o_iPhone_back_camera
+    4300006: o_iPhone_sensor_backplate
+    4300008: o_iPhone_onoffswitch
+    4300010: o_iphone_loudness
+    4300012: o_iphone_toggle
+    4300014: o_iphone_glassplate
+    4300016: iphone_6_screen_texture_718x1278
+    4300018: o_iPhone_front_speaker_inlay
+    4300020: o_iphone_camera_inlet_front
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 1af4abdd4548b1f49b8b7ec4a20f1c72
+timeCreated: 1465441043
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Index.000
+    100002: Index.001
+    100004: Index.002
+    100006: Index.002_end
+    100008: MaleHand.Left
+    100010: MaleHandArmature.Left
+    100012: //RootNode
+    100014: Midle.000
+    100016: Midle.001
+    100018: Midle.002
+    100020: Midle.002_end
+    100022: Palm
+    100024: Pinky.000
+    100026: Pinky.001
+    100028: Pinky.002
+    100030: Pinky.003
+    100032: Pinky.003_end
+    100034: Ring.000
+    100036: Ring.001
+    100038: Ring.002
+    100040: Ring.002_end
+    100042: Thumb.000
+    100044: Thumb.001
+    100046: Thumb.002
+    100048: Thumb.002_end
+    400000: Index.000
+    400002: Index.001
+    400004: Index.002
+    400006: Index.002_end
+    400008: MaleHand.Left
+    400010: MaleHandArmature.Left
+    400012: //RootNode
+    400014: Midle.000
+    400016: Midle.001
+    400018: Midle.002
+    400020: Midle.002_end
+    400022: Palm
+    400024: Pinky.000
+    400026: Pinky.001
+    400028: Pinky.002
+    400030: Pinky.003
+    400032: Pinky.003_end
+    400034: Ring.000
+    400036: Ring.001
+    400038: Ring.002
+    400040: Ring.002_end
+    400042: Thumb.000
+    400044: Thumb.001
+    400046: Thumb.002
+    400048: Thumb.002_end
+    4300000: MaleHand.Left
+    7400000: MaleHandArmature.Left|Grab
+    7400002: Idle
+    7400004: Grab
+    9500000: //RootNode
+    13700000: MaleHand.Left
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MaleHandArmature.Left|Grab
+      takeName: MaleHandArmature.Left|Grab
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MaleHand.Left
+        weight: 1
+      - path: MaleHandArmature.Left
+        weight: 1
+      - path: MaleHandArmature.Left/Palm
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000/Index.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000/Index.001/Index.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000/Index.001/Index.002/Index.002_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000/Midle.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000/Midle.001/Midle.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000/Midle.001/Midle.002/Midle.002_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001/Pinky.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001/Pinky.002/Pinky.003
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001/Pinky.002/Pinky.003/Pinky.003_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000/Ring.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000/Ring.001/Ring.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000/Ring.001/Ring.002/Ring.002_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000/Thumb.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000/Thumb.001/Thumb.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000/Thumb.001/Thumb.002/Thumb.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: MaleHandArmature.Left|Grab
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MaleHand.Left
+        weight: 1
+      - path: MaleHandArmature.Left
+        weight: 1
+      - path: MaleHandArmature.Left/Palm
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000/Index.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000/Index.001/Index.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000/Index.001/Index.002/Index.002_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000/Midle.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000/Midle.001/Midle.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000/Midle.001/Midle.002/Midle.002_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001/Pinky.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001/Pinky.002/Pinky.003
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001/Pinky.002/Pinky.003/Pinky.003_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000/Ring.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000/Ring.001/Ring.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000/Ring.001/Ring.002/Ring.002_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000/Thumb.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000/Thumb.001/Thumb.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000/Thumb.001/Thumb.002/Thumb.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Grab
+      takeName: MaleHandArmature.Left|Grab
+      firstFrame: 6
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MaleHand.Left
+        weight: 1
+      - path: MaleHandArmature.Left
+        weight: 1
+      - path: MaleHandArmature.Left/Palm
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000/Index.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000/Index.001/Index.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Index.000/Index.001/Index.002/Index.002_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000/Midle.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000/Midle.001/Midle.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Midle.000/Midle.001/Midle.002/Midle.002_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001/Pinky.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001/Pinky.002/Pinky.003
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Pinky.000/Pinky.001/Pinky.002/Pinky.003/Pinky.003_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000/Ring.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000/Ring.001/Ring.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Ring.000/Ring.001/Ring.002/Ring.002_end
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000/Thumb.001
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000/Thumb.001/Thumb.002
+        weight: 1
+      - path: MaleHandArmature.Left/Palm/Thumb.000/Thumb.001/Thumb.002/Thumb.002_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
